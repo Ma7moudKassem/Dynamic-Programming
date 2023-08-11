@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Dynamic Programming.cpp">
+    <ClCompile Include="Fib Brute Force.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

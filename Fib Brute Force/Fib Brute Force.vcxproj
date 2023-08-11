@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5f052f81-9d20-4f11-b985-b7e72892f6b7}</ProjectGuid>
-    <RootNamespace>DynamicProgramming</RootNamespace>
+    <ProjectGuid>{e8fe2ca6-2421-47b3-9268-64ce6ab321b4}</ProjectGuid>
+    <RootNamespace>FibBruteForce</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Dynamic Programming.cpp" />
+    <ClCompile Include="Fib Brute Force.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
